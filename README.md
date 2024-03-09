@@ -1,12 +1,12 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif)
 <h1 align="center">Hi 👋, I'm Rayhan Illyas</h1>
-<h3 align="center">Passionate Full Stack Developer with a Focus on Mobile Development (Android Studio & Flutter)</h3>
+<h3 align="center">Passionate Full Stack Developer with a Focus on Mobile Development</h3>
 &nbsp;
 <img align="right" alt="Coding" width="400" src="https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryhn7&label=Profile%20views&color=0e75b6&style=flat" alt="ryhn7" /> </p>
 
-- 🌱 I’m currently learning **Android, Flutter, React**
+- 🌱 I’m currently learning **Android, Flutter, React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
